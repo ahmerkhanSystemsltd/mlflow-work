@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ahmer.khan/Desktop/mlflow-testing/sklearn_elasticnet_wine/mlruns/0/706b4aaede3e4e9897c15b4acba1ce86/artifacts
+end_time: 1636018963031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 706b4aaede3e4e9897c15b4acba1ce86
+run_uuid: 706b4aaede3e4e9897c15b4acba1ce86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1636018961046
+status: 3
+tags: []
+user_id: ahmer.khan
